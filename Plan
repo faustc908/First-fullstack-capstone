@@ -1,0 +1,3 @@
+I want to expand on an application I made called GoodEats earlier in the course.  I want to refractor it into React, add some animations and additions, and expand the search query using the backend.
+Instead of only being able to search for one ingredient You can use several.  I will use the website Edamam which is an api for recipes and filter it through node to expand the search parameters.
+Cooking is a big interest of mine and I've gotten good feedback on my last app so I want to improve on it.
